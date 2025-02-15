@@ -1,0 +1,34 @@
+ gridbotaoEditar:{
+     position: 'absolute',
+     right:40,
+     color:'#5c7ef6',
+   },
+
+   gridbotaoExcluir:{
+     position: 'absolute',
+     right:15,
+     color:'#cc1414',
+   },
+
+   inputBuscar:{
+     backgroundColor: '#FFF',
+     borderRadius: 5,
+     margin: 8,
+     padding: 8,
+     color: '#000',
+     fontSize:15,
+     borderBottomColor: "#767676",
+     borderBottomWidth: StyleSheet.hairlineWidth,
+     width:'100%',
+     position:'relative',    
+   },
+
+   ViewinputBuscar:{
+     flexDirection:'row',
+   },
+
+   iconeBuscar:{
+    position:'absolute',
+    right:20,
+    top: 15,
+   }
